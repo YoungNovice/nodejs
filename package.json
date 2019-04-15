@@ -1,8 +1,19 @@
 {
-    "author": "YoungNovice",
-    "name": "censorify",
+    "author": "yangxuan",
+    "name" :"censortext_yangxuan",
     "version": "0.1.1",
     "description": "Censors words out of text",
+    "main": "censortext",
+    "repository": {
+        "type":"git",
+        "url": "https://github.com/YoungNovice/nodejs"
+    },
+    "keywords": [
+        "censor",
+        "words",
+        "yangxuan",
+        "YoungNovice"
+    ],
     "dependencies": {},
     "engines": {
         "node": "*"
