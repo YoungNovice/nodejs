@@ -1,6 +1,6 @@
 {
     "author": "yangxuan",
-    "name" :"censortext_yangxuan",
+    "name" :"censortext_yx",
     "version": "0.1.1",
     "description": "Censors words out of text",
     "main": "censortext",
